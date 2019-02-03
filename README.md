@@ -1,7 +1,7 @@
 # R-Projects
 I now realize that I could have done a lot more productive thongs. However, I am happy and that's all that matters.
 
-# I am listing all of R Projects (Some of Projects are open source, you can find them on my Github)
+# I am listing all of R Projects (Some of Projects are open source, you can find their code in my repositories)
 
 
 - Asset Comparison Toolbox  
