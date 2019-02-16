@@ -19,6 +19,9 @@ I now realize that I could have done a lot more productive thongs. However, I am
 - Website Analytics                                    
    - [See live project here](https://azharmithani.shinyapps.io/azharmithaniweb/)
    
+- Movie explorer                                    
+   - [See live project here](https://azharmithanii.shinyapps.io/azzy-movies/)
+
 - Best car for your trip Selector                                    
    - [See live project here](https://azharmithani.shinyapps.io/FinalAssign/)      
    
